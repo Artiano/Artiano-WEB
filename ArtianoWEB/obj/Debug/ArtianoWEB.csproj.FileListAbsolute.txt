@@ -1,0 +1,5 @@
+C:\workspace\ArtianoWEB\ArtianoWEB\bin\ArtianoWEB.dll
+C:\workspace\ArtianoWEB\ArtianoWEB\bin\ArtianoWEB.pdb
+C:\workspace\ArtianoWEB\ArtianoWEB\obj\Debug\ArtianoWEB.csprojResolveAssemblyReference.cache
+C:\workspace\ArtianoWEB\ArtianoWEB\obj\Debug\ArtianoWEB.dll
+C:\workspace\ArtianoWEB\ArtianoWEB\obj\Debug\ArtianoWEB.pdb
